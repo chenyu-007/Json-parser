@@ -1,0 +1,11 @@
+{
+   "person":
+	{
+   		"name": "peter",
+   		"age": 20, 
+        "bool": true,
+   		"fruits": "apple",
+   		"color": "RED",
+   		"hobby": [666.666 , "EAT" , "dadooudou" , "Ë¯¾õ"]
+	}
+ }
